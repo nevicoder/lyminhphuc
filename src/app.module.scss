@@ -1,0 +1,27 @@
+.wrapper {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background: linear-gradient(
+    to bottom right,
+    var(--primary-color),
+    var(--secondary-color)
+  );
+}
+
+.portfolio {
+  position: absolute;
+  margin: 50px auto;
+  width: 800px;
+
+}
+
+
+@media screen and (max-width:400px) {
+  .portfolio{
+    position: unset;
+  }
+}
