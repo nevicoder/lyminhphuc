@@ -73,12 +73,12 @@ function Bio() {
         topics like technology, psychedelics, spirituality...
         <br />
         <br />
-        Current working as as part-time content creator for 1cm2 magazine, as
+        Currently working as as part-time content creator for 1cm2 magazine, as
         well as running my own small business.
         <br />
         <br />
         Contact me if you wanna work together, want to share an idea or just
-        want gossip sometime :D
+        want to gossip sometime :D
       </div>
     </>
   );
