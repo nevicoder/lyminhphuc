@@ -24,7 +24,7 @@ function Projects() {
     {
       id: 0,
       title: "High Society Vietnam",
-      desc: "My personal blog. All about spirituality & drugs especially psychedelics",
+      desc: "My personal blog. All about spirituality especially psychedelics",
       link: "https://highsocietyvietnam.com",
     },
     {
