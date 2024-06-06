@@ -55,7 +55,21 @@ li {
   }
 }
 @media screen and (max-width: 400px) {
+  .wrapper{
+    padding: 1.25rem 1.25rem;
+  }
   .milestone {
-    min-width: 15rem;
+    padding: 5px 5px;
+    width: 10.5rem;
+  }
+  .list {
+    &::before {
+      left: 5rem;
+      height: 80%;
+    }
+  }
+  .item {
+    & p {font-size: 1rem; 
+    }
   }
 }

@@ -13,13 +13,7 @@ import {
   faPenToSquare,
   faPhotoVideo,
 } from "@fortawesome/free-solid-svg-icons";
-import {
-  faCss3,
-  faHtml5,
-  faJs,
-  faNodeJs,
-  faReact,
-} from "@fortawesome/free-brands-svg-icons";
+import { faNodeJs } from "@fortawesome/free-brands-svg-icons";
 const mipu = import.meta.env.MIPU;
 function Bio() {
   return (

@@ -12,30 +12,30 @@ function Experiences() {
         <div className={styles.item}>
           <div className={styles.milestone}>2024-now</div>
           <div className={styles.event}>
-            <p>Content writer at 1cm2</p>
-            <p>Launch HSV Store - Headshop based in Sai Gon</p>
+            <p>- Content writer at 1cm2</p>
+            <p>- Launch HSV Store - Headshop based in SG</p>
           </div>
         </div>
       </li>
       <li>
         <div className={styles.item}>
           <div className={styles.milestone}>2023-2024</div>
-          <p>Pharmacist at Pharmacity</p>
+          <p>- Pharmacist at Pharmacity</p>
         </div>
       </li>
       <li>
         <div className={styles.item}>
           <div className={styles.milestone}>2020-2021</div>
           <div className={styles.event}>
-            <p>Launched High Society Vietnam</p>
-            <p>Graduated from University</p>
+            <p>- Launched High Society Vietnam</p>
+            <p>- Graduated from University</p>
           </div>
         </div>
       </li>
       <li>
         <div className={styles.item}>
           <div className={styles.milestone}>2015</div>
-          <p>Studying pharmacy at University</p>
+          <p>- Studying pharmacy at University</p>
         </div>
       </li>
     </ul>
