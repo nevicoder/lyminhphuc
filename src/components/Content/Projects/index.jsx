@@ -31,7 +31,7 @@ function Projects() {
       id: 1,
       title: "High Society Vietnam Store",
       desc: "My own 420 headshop based in Saigon",
-      link: "http://hsvheadshop.com",
+      link: "http://hsv.com",
     },
     {
       id: 2,

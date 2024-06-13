@@ -3,6 +3,7 @@ import Bio from "./Bio";
 import Experiences from "./Experiences";
 import Projects from "./Projects";
 import Contact from "./Contact";
+import Photos from "./Photos";
 import styles from "./Content.module.scss";
 function Content() {
   return (
@@ -12,6 +13,7 @@ function Content() {
       <Route path="/experiences" element={<Experiences />} />
       <Route path="/projects" element={<Projects />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/photos" element={<Photos />} />
     </Routes>
   );
 }
